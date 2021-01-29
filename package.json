@@ -2,9 +2,10 @@
   "name": "paulora2405.github.io",
   "version": "0.0.1",
   "description": "Simple website using node.js, express and possibly tailwind css",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "node index.js"
+    "start": "node server.js",
+    "test": "echo no tests setup up"
   },
   "repository": {
     "type": "git",
